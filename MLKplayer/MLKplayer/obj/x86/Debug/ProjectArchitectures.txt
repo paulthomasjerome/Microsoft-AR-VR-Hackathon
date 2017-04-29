@@ -1,0 +1,1 @@
+c:\users\ian\documents\visual studio 2017\Projects\MLKplayer\MLKplayer\MLKplayer.csproj;x86
